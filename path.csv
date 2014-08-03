@@ -1,5 +1,6 @@
 Screen,Path
-s1oneconflict,//divs1
+s1onebranchcon,//divs1
 snew,//newpath
 s2,//divs2twoconflict
 s3,//divs3
+s4,//div4

@@ -2,4 +2,4 @@ FileOne
 
 updatesnow
 
-to check conflict
+branchnewconflict
